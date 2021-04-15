@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EugeneWinterson
+- 👀 I’m interested in Game and Web Development
+- 🌱 I’m currently learning Java, JS
